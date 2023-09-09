@@ -56,6 +56,8 @@ Otro ejemplo
         System.out.println(numero);
     }
 
-            int numero = Integer.parseInt(arg);
+Integer.parseInt
+
+        int numero = Integer.parseInt(arg);
 
 Dentro del bucle, se convierte cada argumento (que es una cadena) en un número entero utilizando Integer.parseInt(arg) y se almacena en la variable numero.
